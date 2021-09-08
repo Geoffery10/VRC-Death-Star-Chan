@@ -43,3 +43,13 @@ MonoBehaviour:
     subMenu: {fileID: 11400000, guid: 58a48818c68096740bcf41d1989e8d39, type: 2}
     subParameters: []
     labels: []
+  - name: Business Card
+    icon: {fileID: 2800000, guid: d46a3bed5f2ae6848bf5e739acb2a53b, type: 3}
+    type: 102
+    parameter:
+      name: Business_Card
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -37,12 +37,12 @@ MonoBehaviour:
     valueType: 2
     saved: 1
     defaultValue: 0
-  - name: 
-    valueType: 0
+  - name: Faces
+    valueType: 2
     saved: 1
-    defaultValue: 0
-  - name: 
-    valueType: 0
+    defaultValue: 1
+  - name: Business_Card
+    valueType: 2
     saved: 1
     defaultValue: 0
   - name: 
