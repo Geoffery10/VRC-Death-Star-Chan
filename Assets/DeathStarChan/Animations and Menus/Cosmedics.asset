@@ -33,3 +33,13 @@ MonoBehaviour:
     subMenu: {fileID: 11400000, guid: d9285aedf8132e7488027fc2eab7dde4, type: 2}
     subParameters: []
     labels: []
+  - name: Death Star II
+    icon: {fileID: 2800000, guid: 3d790df7c4e20d549a39c668fbf7fe26, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 58a48818c68096740bcf41d1989e8d39, type: 2}
+    subParameters: []
+    labels: []

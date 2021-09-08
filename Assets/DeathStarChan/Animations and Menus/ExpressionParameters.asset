@@ -33,8 +33,8 @@ MonoBehaviour:
     valueType: 0
     saved: 1
     defaultValue: 0
-  - name: 
-    valueType: 0
+  - name: DeathStarII
+    valueType: 2
     saved: 1
     defaultValue: 0
   - name: 
