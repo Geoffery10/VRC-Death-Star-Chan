@@ -16030,6 +16030,7 @@ GameObject:
   - component: {fileID: 5866666021895065584}
   - component: {fileID: 19427942}
   - component: {fileID: 19427943}
+  - component: {fileID: 919132149173800753}
   m_Layer: 0
   m_Name: Death Star-Chan
   m_TagString: Untagged
@@ -16037,6 +16038,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &919132149173800753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132149173800752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contentType: 0
 --- !u!4 &947290644886233344
 Transform:
   m_ObjectHideFlags: 0
